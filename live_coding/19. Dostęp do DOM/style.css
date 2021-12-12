@@ -1,0 +1,29 @@
+#container {
+    height: 800px;
+    width: 800px;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box {
+    height: 80px;
+    width: 80px;
+    background-color: grey;
+    margin: 30px;
+}
+
+.big-box {
+    height: 600px;
+    width: 600px;
+    background-color: antiquewhite;
+    margin: 30px;
+}
+
+.green-box {
+    height: 80px;
+    width: 80px;
+    background-color: greenyellow;
+    margin: 30px;
+}
